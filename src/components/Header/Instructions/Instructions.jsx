@@ -1,3 +1,5 @@
+import React from 'react';
+import {ReactComponent as ExLogo} from "../../../assets/images/exclamation.svg";
 import {instructionsMock} from "./InstructionsMock";
 import DropDown from "../../DropDown";
 

@@ -4,6 +4,7 @@ import {userMock} from "./userMock";
 function User() {
 
     const {name, role, avatar} = userMock
+
     const btn = () => {
         return (
             <div className={'flex items-center justify-center h-[46px]'}>

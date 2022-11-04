@@ -1,3 +1,5 @@
+import React from 'react';
+import {ReactComponent as MailsLogo} from '../../../assets/images/emails.svg'
 import {notificationsMock} from "./NotificationsMock";
 import DropDown from "../../DropDown";
 

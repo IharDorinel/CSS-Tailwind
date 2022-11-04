@@ -1,4 +1,7 @@
 import React, {useState} from 'react';
+import {ReactComponent as SearchLogo} from '../../../assets/images/search.svg'
+import {ReactComponent as CycleLogo} from '../../../assets/images/cycle.svg'
+import {ReactComponent as PageLogo} from '../../../assets/images/blankpage.svg'
 import {recentMock} from "./searchMock";
 
 function Search() {
